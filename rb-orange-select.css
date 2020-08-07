@@ -1,0 +1,15 @@
+/* .logged-out .column-secondary {
+padding: 0;
+}
+.logged-out .hero-unit {
+display: flex;
+place-content: center;
+}
+.logged-out .hero-unit > img {
+width: 100%;
+max-width: initial;
+} */
+
+body {
+    background-color: red;
+}
